@@ -1,0 +1,22 @@
+# Ignore all junk
+__pycache__/
+Fastapi/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env (if any)
+env/
+venv/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Editor/OS stuff
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+
+
